@@ -1,5 +1,6 @@
 # The Site Configuration
-
+plugins:
+  - jekyll-google_search_console_verification_file
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -44,6 +45,8 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
+google_search_console:
+  verification_file_code: 5c55944300eb8c8d
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
