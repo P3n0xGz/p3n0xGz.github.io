@@ -47,10 +47,10 @@ social:
 
 google_search_console:
   verification_file_code: 5c55944300eb8c8d
-# Site Verification Settings
+# Site Verification Settingsbundle exec jekyll build
 webmaster_verifications:
   google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
+  bing: E833C9CDC3E639DCDBC7A35E8EF5972B
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
