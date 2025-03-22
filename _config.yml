@@ -17,10 +17,10 @@ timezone:
 
 title: P3n0xGz # the main title
 
-tagline: A wandrer in the realm of cybersecurity  # it will display as the subtitle
+tagline: A wandrer in the realm of cybersecurity # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Cybersecurity enthusiast sharing CTF writeups, penetration testing tips, and open-source security tools. Explore ethical hacking guides, automation scripts, and cybersecurity research.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -52,7 +52,7 @@ webmaster_verifications:
   google: # fill in your Google verification code
   bing: E833C9CDC3E639DCDBC7A35E8EF5972B
   alexa: # fill in your Alexa verification code
-  yandex: # 
+  yandex: #
   baidu: # fill in your Baidu verification code
   facebook: # fill in your Facebook verification code
 
